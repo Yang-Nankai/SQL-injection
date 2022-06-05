@@ -87,7 +87,7 @@ def banner():
 
 	DnsLog SqlInj+ Scanner by YX
 	Version 1.0
-	https://github.com/ADOOO/DnslogSqlinj
+	https://github.com/Yang-Nankai/SQL-injection
 _________________________________________________________________________
 	"""
 	print (str)
