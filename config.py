@@ -4,8 +4,8 @@
 import random
 
 # DNSlog 设置
-APItoken = 'fbb0b0c790b947e95e14bc81ee350390'
-DNSurl = 'oj3aoq.ceye.io'
+APItoken = ''
+DNSurl = ''
 
 # 超时时间
 timeout = 30
